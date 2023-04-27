@@ -1,0 +1,30 @@
+.result{
+    height: fit-content;
+    width:900px;
+}
+.watches{
+    margin: 0 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.err{
+    height: 90vh
+}
+.watch_item{
+    width: 250px;
+    border: 1px solid black;
+    height: 650px;
+    margin-bottom: 40px ;
+    background-color: silver;
+}
+.watch_item img{
+    width:200px;
+    height:200px
+}
+.watch_item p{
+    font-size: 18px;
+}
+.chars p{
+    font-size: 16px;
+}

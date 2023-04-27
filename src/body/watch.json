@@ -1,0 +1,112 @@
+[
+    {
+        "model": "Apple watch",
+        "Shape": "Прямоугольная форма",
+        "Body material": "Алюминий",
+        "Type": "Сенсорный",
+        "Maker": "США",
+        "Price": "26.000",
+        "Colour": "Чёрный",
+        "Watch-guard": "Силикон",
+        "photo": "apple.jpg"
+    },
+    {
+        "model": "Samsung watch",
+        "Shape": "Круг",
+        "Body material": "Алюминий",
+        "Type": "Сенсорный",
+        "Maker": "Вьетнам",
+        "Price": "14.000",
+        "Colour": "Чёрный",
+        "Watch-guard": "Силикон",
+        "photo": "samsung.jpg"
+    },
+    {
+        "model": "Casio mtp-vt01gl-2b",
+        "Shape": "Круг",
+        "Body material": "Сталь",
+        "Type": "Механический",
+        "Maker": "Япония",
+        "Price": "4.190",
+        "Colour": "Синий",
+        "Watch-guard": "Искусственная кожа",
+        "photo": "casio.jpg"
+    },
+    {
+        "model": "Swatch night flight again",
+        "Shape": "Круг",
+        "Body material": "Нержавеющая сталь",
+        "Type": "Механический",
+        "Maker": "Швейцария",
+        "Price": "22.500",
+        "Colour": "Серебро",
+        "Watch-guard": "Металлический",
+        "photo": "swatch.png"
+    },
+    {
+        "model": "Emporio Armani AR2447",
+        "Shape": "Круг",
+        "Body material": "Нержавеющая сталь",
+        "Type": "Механический",
+        "Maker": "Италия",
+        "Price": "14.500",
+        "Colour": "Серебро",
+        "Watch-guard": "Натуральная кожа",
+        "photo": "armani.jpg"
+    },
+    {
+        "model": "Tissot Le Locle Powermatic 80 T006.407.11.053.00",
+        "Shape": "Круг",
+        "Body material": "Нержавеющая сталь",
+        "Type": "Автоматические",
+        "Maker": "Швейцария",
+        "Price": "74.300",
+        "Colour": "Серебро",
+        "Watch-guard": "Нержавеющая сталь",
+        "photo": "tissot.jpg"
+    },
+    {
+        "model": "Calvin Klein K9R31CV1",
+        "Shape": "Круг",
+        "Body material": "Нержавеющая сталь",
+        "Type": "Механический",
+        "Maker": "Швейцария",
+        "Price": "19.100",
+        "Colour": "Чёрный",
+        "Watch-guard": "Силикон",
+        "photo": "klein.jpg"
+    },
+    {
+        "model": "Мужские стальные часы Sokolov артикул: 319.76.00.000.04.01.3",
+        "Shape": "Круг",
+        "Body material": "Сталь",
+        "Type": "Кварцевые",
+        "Maker": "Япония",
+        "Price": "7.800",
+        "Colour": "Серебро",
+        "Watch-guard": "Нержавеющая сталь",
+        "photo": "sokolov.jpg"
+    },
+    {
+        "model": "Мужские золотые часы Sokolov Артикул: 209.01.00.000.03.01.3",
+        "Shape": "Круг",
+        "Body material": "Розовое золото",
+        "Type": "Кварцевые",
+        "Maker": "Швейцария",
+        "Price": "129.100",
+        "Colour": "Розовое золото",
+        "Watch-guard": "Натуральная кожа",
+        "photo": "sokol.jpg"
+    },
+    {
+        "model": "Мужские стальные часы Sokolov Артикул: 501.71.00.000.16.01.3",
+        "Shape": "Круг",
+        "Body material": "Сталь",
+        "Type": "Кварцевые",
+        "Maker": "Япония",
+        "Price": "2.100",
+        "Colour": "Серебро",
+        "Watch-guard": "Металлический",
+        "photo": "sklv.jpg"
+    }
+    ]
